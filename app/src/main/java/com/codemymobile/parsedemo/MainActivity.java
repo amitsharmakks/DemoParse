@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
          // getIndividualSchool();
 
           // addNewUser();
-    //  signInAccount();
+      signInAccount();
 
        // addStudent();
     //    getListOfSchool();
